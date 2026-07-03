@@ -1,4 +1,4 @@
-# ⚡ Simulasi Direct On Line (DOL) Motor Starter Menggunakan CADe_SIMU
+# Simulasi Direct On Line (DOL) Motor Starter Menggunakan CADe_SIMU
 
 ## Deskripsi
 
@@ -42,10 +42,10 @@ Project ini bertujuan untuk memahami cara kerja kontaktor, push button, serta si
 
 Repository ini berisi:
 
-- 🔌 Diagram Power Circuit
-- ⚙️ Diagram Control Circuit
-- 🖼️ Layout komponen
-- 🎥 Video simulasi
+- Diagram Power Circuit
+- Diagram Control Circuit
+- Layout komponen
+- Video simulasi
 
 ---
 

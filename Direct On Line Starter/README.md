@@ -79,14 +79,8 @@ Simulasi berhasil menunjukkan prinsip kerja Direct On Line (DOL) Motor Starter, 
 
 ---
 
-## Dokumentasi
-
-![Wiring Diagram](Wiring Diagram.png)
-
----
-
 ## Dibuat Oleh
 
 **Eldoni Purba**
 
-Portofolio Electrical Engineering
+Portofolio Electrical & Automation

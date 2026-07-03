@@ -1,4 +1,4 @@
-# Implementasi Kran Air Otomatis Berbasis Arduino
+# 🚰 Implementasi Kran Air Otomatis Berbasis Arduino
 
 ## Deskripsi
 
@@ -45,18 +45,17 @@ Repository ini berisi:
 - 🔌 Diagram Rangkaian
 - 🖼️ Dokumentasi Gambar
 - 🎥 Video Simulasi
-  
 
 ---
 
 ## Cara Kerja Sistem
 
-1. Sensor mendeteksi ketinggian permukaan air.
+1. Sensor mendeteksi keberadaan tangan atau objek.
 2. Arduino menerima sinyal dari sensor.
 3. Arduino mengaktifkan relay.
 4. Relay menyalurkan tegangan ke solenoid valve.
 5. Solenoid valve terbuka sehingga air mengalir.
-6. Ketika ketinggian permukaan air sudah mencapai maksimal, relay mati dan solenoid valve menutup sehingga aliran air berhenti.
+6. Ketika objek tidak lagi terdeteksi, relay mati dan solenoid valve menutup sehingga aliran air berhenti.
 
 ---
 

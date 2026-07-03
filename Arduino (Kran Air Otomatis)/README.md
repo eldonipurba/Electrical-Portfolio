@@ -1,4 +1,4 @@
-# 🚰 Implementasi Kran Air Otomatis Berbasis Arduino
+# Implementasi Kran Air Otomatis Berbasis Arduino
 
 ## Deskripsi
 
@@ -41,10 +41,10 @@ Project ini dibuat sebagai media pembelajaran mengenai sistem kontrol otomatis, 
 
 Repository ini berisi:
 
-- 📄 Laporan / Penjelasan Project
-- 🔌 Diagram Rangkaian
-- 🖼️ Dokumentasi Gambar
-- 🎥 Video Simulasi
+- Laporan / Penjelasan Project
+- Diagram Rangkaian
+- Dokumentasi Gambar
+- Video Simulasi
 
 ---
 

@@ -75,7 +75,7 @@ This project demonstrates the implementation of a **Direct-On-Line (DOL) Motor S
 
 ### Online Simulation
 
-![Simulation](images/simulation.png)
+![Simulation](images/Simulation.png)
 
 ---
 

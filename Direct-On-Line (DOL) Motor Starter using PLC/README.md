@@ -71,11 +71,11 @@ This project demonstrates the implementation of a **Direct-On-Line (DOL) Motor S
 
 ### Ladder Diagram - HMI
 
-![Ladder Diagram](images/Ladder-HMI.png)
+![Ladder Diagram](Ladder.png)
 
 ### Online Simulation
 
-![Simulation](images/Simulation.png)
+![Simulation](simulation.png)
 
 ---
 
